@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChartForms", "WebChartForms\WebChartForms.csproj", "{F3B83C27-2EE6-4BDE-96DA-5C85766334F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPropsConfTest", "XPropsConfTest\XPropsConfTest.csproj", "{AA433DB5-3134-4864-95EF-1FCE45B0D271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B83C27-2EE6-4BDE-96DA-5C85766334F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B83C27-2EE6-4BDE-96DA-5C85766334F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B83C27-2EE6-4BDE-96DA-5C85766334F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B83C27-2EE6-4BDE-96DA-5C85766334F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA433DB5-3134-4864-95EF-1FCE45B0D271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA433DB5-3134-4864-95EF-1FCE45B0D271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA433DB5-3134-4864-95EF-1FCE45B0D271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA433DB5-3134-4864-95EF-1FCE45B0D271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
